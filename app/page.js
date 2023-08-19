@@ -27,11 +27,11 @@ export default function Home() {
           </div>
             <h2 className='text-lg'>Join me on the Path of Web Development Excellence</h2>
             <p className='text-base text-slate-400'>Welcome to the world of web development! I'm Abhishekh, a skilled web developer proficient in React, Laravel, and Node.js. Let's create captivating digital experiences and bring your ideas to life!</p>
-            <button className='px-4 py-2 bg-backgroud-primary text-primary-text my-2 flex gap-2 max-w-[165px] hover:gap-3 duration-250	transition-all'>
+            <Link href='/about' className='px-4 py-2 bg-backgroud-primary text-primary-text my-2 flex gap-2 max-w-[165px] hover:gap-3 duration-250	transition-all'>
               Know More... <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
               </svg>
-            </button>
+            </Link>
           </div>
           <div className='z-[1]'>
             <Image src="/me.png" alt='' width={750} height={750} className='md:max-w-[400px] md:max-h-[400px] border-b-4 border-red-500'/>
