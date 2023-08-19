@@ -1,7 +1,7 @@
 import Navbar from '../component/navbar'
 export default async function work() {
     // api/project/9
-    let res = await fetch('http://localhost:3000/api/project');
+    let res = await fetch('http://portfolio-qz5zk3a6g-abhigitsacc.vercel.app/api/project');
     let data = await res.json();
     data = JSON.parse(data.data)
     return (
