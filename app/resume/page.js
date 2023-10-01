@@ -45,7 +45,7 @@ const Resume = () => {
         <section className="bg-white shadow-md rounded-lg my-8 mx-4 p-6">
             <h2 className="text-2xl font-semibold mb-4">Experience</h2>
             <div className="mb-4">
-            <h3 className="text-xl font-semibold mb-2">Full Stack Developer - IT Geeks | August 2022- July 2023</h3>
+            <h3 className="text-xl font-semibold mb-2">Full Stack Developer - IT Geeks | August 2022 - July 2023</h3>
             <p>Developing and maintaining web applications using React and Laravel.</p>
             <p>Collaborating within a team to deliver innovative solutions.</p>
             <p>Implementing and optimizing database structures.</p>
