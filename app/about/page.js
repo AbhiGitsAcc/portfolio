@@ -35,7 +35,7 @@ export default function work() {
                             <div className="w-full px-4 m-auto lg:w-1/2 lg:mb-0">
                                 <div className="lg:max-w-md">
                                     <h2 className="mt-4 mb-6 text-2xl font-bold dark:text-gray-300">A Freelancer with a Proven Track Record</h2>
-                                    <p className="mb-10 text-gray-600 dark:text-gray-400 ">For 6-7 months, I embraced the world of freelancing, collaborating with clients from various industries to turn their visions into reality. My dedication to delivering quality work within deadlines has earned me a reputation as a reliable and results-driven freelancer. Each project I undertake is an opportunity to add value and make a meaningful impact on businesses and their audiences.</p>
+                                    <p className="mb-10 text-gray-600 dark:text-gray-400 ">For 8 months, I embraced the world of freelancing, collaborating with clients from various industries to turn their visions into reality. My dedication to delivering quality work within deadlines has earned me a reputation as a reliable and results-driven freelancer. Each project I undertake is an opportunity to add value and make a meaningful impact on businesses and their audiences.</p>
                                 </div>
                             </div>
                             <div className="w-full px-4 m-auto lg:w-1/2 lg:mb-0">
